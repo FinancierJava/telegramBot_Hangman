@@ -1,0 +1,5 @@
+logs.txt
+__pycache__/
+myenv/
+config.py
+hangman.db
